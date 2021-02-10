@@ -1,6 +1,6 @@
 #bywave
 
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20000/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#香港丨专线丨LeaseWeb丨实验丨SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20000/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线丨香港1丨SS
 ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20001/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线丨香港2丨SS
 ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20002/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线丨香港3丨SS
 ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20003/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线丨新加坡丨SS
