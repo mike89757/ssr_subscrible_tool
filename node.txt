@@ -1,11 +1,11 @@
 #bywave
 
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20000/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 香港1 SS
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20001/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 香港2 SS
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20002/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 香港3 SS
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20003/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 新加坡 SS
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20006/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 日本 SS
-ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20005/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线 美国 SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20000/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|香港1|SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20001/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|香港2|SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20002/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|香港3|SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20003/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|新加坡|SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20006/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|日本|SS
+ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20005/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线|美国|SS
 ssr://aXBsYy5qaWppZnVuLmNvbToyMDAwMDpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpNVEUwTlRFMC8/b2Jmc3BhcmFtPU16UTJPRE13Tm1NME9TNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09JnJlbWFya3M9NmFhWjVyaXY1TGlvNUxpVDU3cS81TGlvVEdWaGMyVlhaV0xrdUtqbHJwN3Bxb3prdUtoVFUxST0= #张麦克专线 SSR
 ssr://aXBsYy5qaWppZnVuLmNvbToyMDAwMTpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpNVEUwTlRFMC8/b2Jmc3BhcmFtPU16UTJPRE13Tm1NME9TNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09JnJlbWFya3M9NmFhWjVyaXY1TGlvNUxpVDU3cS81TGlvVGxSVTVMaW81YTZlNmFxTTVMaW9VMU5T
 ssr://aXBsYy5qaWppZnVuLmNvbToyMDAwMjpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpNVEUwTlRFMC8/b2Jmc3BhcmFtPU16UTJPRE13Tm1NME9TNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09JnJlbWFya3M9NmFhWjVyaXY1TGlvNUxpVDU3cS81TGlvU0V0Q1R1UzRxT1d1bnVtcWpPUzRxRk5UVWc9PQ==
