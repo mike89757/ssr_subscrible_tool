@@ -1,3 +1,7 @@
+#自家服务器
+
+ssr://MTc0LjkyLjEwOS45ODozMjYwMDphdXRoX2NoYWluX2E6YWVzLTE5Mi1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpYSnBiZy8_cmVtYXJrcz01cGVnNlptUTVyV0I2WWVQJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
 #bywave
 
 ss://Y2hhY2hhMjAtaWV0ZjoxMTQ1MTQ@iplc.jijifun.com:20000/?plugin=simple-obfs;obfs=http;obfs-host=3468306c49.microsoft.com#张麦克专线丨香港1丨SS
